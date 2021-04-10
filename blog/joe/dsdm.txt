@@ -1,5 +1,5 @@
 <style>
-	/*╣╞ЁЖ*/
+	/*Е╪╧Е┤╨*/
 	.footer_flex {
 		width: 42px;
 		height: 42px;
@@ -66,13 +66,13 @@
 		<div class="flex-footer">
 			<img id="ewm" src="https://cdn.jsdelivr.net/gh/aill66/cdn/weskm.png" width="120px" height="120px">
 			<div style="margin-top:5px;">
-				<label><input name="pay" type="radio" value="wx" checked="checked" onclick="wx()">н╒пе</label>
+				<label><input name="pay" type="radio" value="wx" checked="checked" onclick="wx()">Е╬╝Д©║</label>
 				<label style="margin-left:3px; display:block-inline"><input name="pay" type="radio" value="zfb"
-						onclick="zfb()">ж╖╦╤╠╕</label>
+						onclick="zfb()">Ф■╞Д╩≤Е╝²</label>
 				<label style="margin-left:3px;"><input name="pay" type="radio" value="qq" onclick="qq()">QQ</label>
 			</div>
 			<div style="height:40px; background:rgba(0,0,0,0);"></div>
 		</div>
 	</div>
-	<p style="margin-top:5px; color:#909399; font-size:12px">╢Рим</p>
+	<p style="margin-top:5px; color:#909399; font-size:12px">Ф┴⌠Х╣▐</p>
 </div>
